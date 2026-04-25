@@ -1,0 +1,100 @@
+{
+  "hash": "38d59e29",
+  "configHash": "f30765ee",
+  "lockfileHash": "af71aab2",
+  "browserHash": "f4007fa0",
+  "optimized": {
+    "@angular/cdk/bidi": {
+      "src": "../../../../../../node_modules/@angular/cdk/fesm2022/bidi.mjs",
+      "file": "@angular_cdk_bidi.js",
+      "fileHash": "d0adaa7b",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "02752fde",
+      "needsInterop": false
+    },
+    "@angular/material/badge": {
+      "src": "../../../../../../node_modules/@angular/material/fesm2022/badge.mjs",
+      "file": "@angular_material_badge.js",
+      "fileHash": "1c344807",
+      "needsInterop": false
+    },
+    "@angular/material/button": {
+      "src": "../../../../../../node_modules/@angular/material/fesm2022/button.mjs",
+      "file": "@angular_material_button.js",
+      "fileHash": "5554385f",
+      "needsInterop": false
+    },
+    "@angular/material/card": {
+      "src": "../../../../../../node_modules/@angular/material/fesm2022/card.mjs",
+      "file": "@angular_material_card.js",
+      "fileHash": "7219863e",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "fa417049",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "fa324682",
+      "needsInterop": false
+    },
+    "@angular/material/datepicker": {
+      "src": "../../../../../../node_modules/@angular/material/fesm2022/datepicker.mjs",
+      "file": "@angular_material_datepicker.js",
+      "fileHash": "0e2de6eb",
+      "needsInterop": false
+    },
+    "@angular/cdk/scrolling": {
+      "src": "../../../../../../node_modules/@angular/cdk/fesm2022/scrolling.mjs",
+      "file": "@angular_cdk_scrolling.js",
+      "fileHash": "c824c306",
+      "needsInterop": false
+    },
+    "@angular/material/icon": {
+      "src": "../../../../../../node_modules/@angular/material/fesm2022/icon.mjs",
+      "file": "@angular_material_icon.js",
+      "fileHash": "cbdad07c",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-WHZEIMLA": {
+      "file": "chunk-WHZEIMLA.js"
+    },
+    "chunk-R37NH64A": {
+      "file": "chunk-R37NH64A.js"
+    },
+    "chunk-GUGIMSVJ": {
+      "file": "chunk-GUGIMSVJ.js"
+    },
+    "chunk-UAUJARC3": {
+      "file": "chunk-UAUJARC3.js"
+    },
+    "chunk-LGAGOTYM": {
+      "file": "chunk-LGAGOTYM.js"
+    },
+    "chunk-IMIVEJHG": {
+      "file": "chunk-IMIVEJHG.js"
+    },
+    "chunk-HIZCHR7R": {
+      "file": "chunk-HIZCHR7R.js"
+    },
+    "chunk-2DO2FAOU": {
+      "file": "chunk-2DO2FAOU.js"
+    },
+    "chunk-5NA7LDVN": {
+      "file": "chunk-5NA7LDVN.js"
+    },
+    "chunk-MOWLAC44": {
+      "file": "chunk-MOWLAC44.js"
+    }
+  }
+}
